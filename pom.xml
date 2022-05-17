@@ -34,6 +34,7 @@
         <module>demo-service</module>
         <module>demo-web</module>
         <module>start</module>
+        <module>easy-poi-demo</module>
     </modules>
 
     <dependencyManagement>

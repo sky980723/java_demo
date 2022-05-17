@@ -35,3 +35,4 @@ demo-service/src/main/resources/rebel.xml
 .mvn/
 mvnw.cmd
 mvnw
+easy-poi-demo/src/main/resources/rebel.xml
